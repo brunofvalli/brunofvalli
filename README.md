@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **brunofvalli/brunofvalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Unity 3D - I will create a game....
+# I’m currently learning:
 
-- My main development motto is "DON'T REPEAT CODE"
+### Unity 3D - I will create a game....
+
+# My main development motto is "DON'T REPEAT CODE"
