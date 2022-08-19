@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# I’m currently learning:
+# I don't know everything, but I can learn anything
 
-### Unity 3D - I will create a game....
+
 
 # My main development motto is "DON'T REPEAT CODE"
